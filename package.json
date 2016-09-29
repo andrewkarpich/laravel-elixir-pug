@@ -24,14 +24,14 @@
     "object.pick": "^1.1.2"
   },
   "peerDependencies": {
-    "pug": "^2.0.0"
+    "pug": "^2.0.0-beta6"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrkmg/laravel-elixir-pug.git"
+    "url": "git+https://github.com/andrewkarpich/laravel-elixir-pug.git"
   },
   "bugs": {
-    "url": "https://github.com/mrkmg/laravel-elixir-pug/issues"
+    "url": "https://github.com/andrewkarpich/laravel-elixir-pug/issues"
   },
-  "homepage": "https://github.com/mrkmg/laravel-elixir-pug"
+  "homepage": "https://github.com/andrewkarpich/laravel-elixir-pug"
 }
